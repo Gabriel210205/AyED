@@ -1,2 +1,4 @@
+
 Nombre: Gabriel Fernandez
-/n Codigo de comisión: K1102
+
+Codigo de comisión: K1102
